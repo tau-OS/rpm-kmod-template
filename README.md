@@ -1,0 +1,1 @@
+# rpm-kmod-template
