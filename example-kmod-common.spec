@@ -19,7 +19,6 @@ These are the common files: LICENSE, config, etc... for the example kernel modul
 %setup -q -c -T -a 0
 
 %files
-%defattr(644,root,root,755)
 
 %clean
 rm -rf $RPM_BUILD_ROOT
